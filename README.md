@@ -5,7 +5,7 @@
   I love designing electrical circuits and making software. I love solving problems and developing solutions that make things easier. I have multiple hobbies, the main ones are programming, gaming and mechanical keyboards. I am currently rocking a GMMK Pro ANSI, with lubed/filmed Zealios V2 67g and lubed Durock stabilizers. I began my coding journey 11 years ago and am still going strong.
 
 ### VSCode Extension Installs
-<img src="https://img.shields.io/visual-studio-marketplace/i/martinkors.ijvm-vscode?label=IJVM%20Language%20Syntax&style=for-the-badge">
+<a href="https://marketplace.visualstudio.com/items?itemName=martinkors.ijvm-vscode"><img src="https://img.shields.io/visual-studio-marketplace/i/martinkors.ijvm-vscode?label=IJVM%20Language%20Syntax&style=for-the-badge">
 
 ### Skills
 #### Top 3 Languages
